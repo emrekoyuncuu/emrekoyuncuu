@@ -4,6 +4,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrekoyuncuu/)](https://www.linkedin.com/in/emrekoyuncuu/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/emrekoyuncuu)](https://github.com/emrekoyuncuu)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=emrekoyuncuu.emrekoyuncuu)
+[![wakatime](https://wakatime.com/badge/user/b83cc7e1-8a8a-46b5-93b0-1e93eaba3c5e.svg)](https://wakatime.com/@emrekoyuncuu)
 
 ---
 
@@ -19,9 +21,9 @@ Hello! I'm Emre Koyuncu, a dedicated software developer with a passion for creat
 
 ## 💼 Professional Skills
 
-- **Languages:** JavaScript, Java, Kotlin, Python
-- **Frameworks & Libraries:** React, Next.js, Firebase
-- **Tools & Platforms:** Git, Docker, CI/CD, GitHub Actions
+- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+- **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-007ACC?style=flat-square&logo=azure-pipelines&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 - **Development Areas:** Full-stack Development, Mobile App Development, API Design
 
 ---
@@ -30,6 +32,8 @@ Hello! I'm Emre Koyuncu, a dedicated software developer with a passion for creat
 
 ![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekoyuncuu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekoyuncuu&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=emrekoyuncuu&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=emrekoyuncuu&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
