@@ -1,45 +1,74 @@
-# 👨‍💻 Emre Koyuncu
 
-**Software Developer**
+<h1 align="center">Hi 👋, I'm Emre Koyuncu</h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrekoyuncuu/)](https://www.linkedin.com/in/emrekoyuncuu/)
-![Profile Views](https://komarev.com/ghpvc/?username=emrekoyuncuu&color=blue)
+<p align="center"> 
+ <img align="center" src="https://komarev.com/ghpvc/?username=emrekoyuncuu&color=blueviolet&style=for-the-badge" alt="Profile views" /> 
+ </p>
 
----
+## 🚀 About Me
 
-## 📝 About Me
+- 🔭 I'm currently working on **enhancing my full stack development skills**
+- 🌱 I'm learning **Advanced React and Next.js techniques**
+- 💼 I've gained valuable international experience through an 8-month work-study program in Ireland, broadening my perspective in the tech industry
+- 💬 Ask me about **React, Next.js, JavaScript, and Full Stack Development**
+- 📫 How to reach me: **emrekoyuncujob@gmail.com**
 
-Hello! I'm Emre Koyuncu, a dedicated software developer with a passion for creating impactful and efficient solutions. My journey in software development is fueled by continuous learning and a desire to stay at the forefront of technological advancements.
+## 🛠️ Languages and Tools
 
-- 🌱 I’m currently learning advanced React.
+### Frontend
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+</p>
 
----
+### Backend
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+</p>
 
-## 💼 Professional Skills
+### Database
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+</p>
 
-- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-- **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-007ACC?style=flat-square&logo=azure-pipelines&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-- **Development Areas:** Full-stack Development, Mobile App Development, API Design
+### Tools & Others
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+</p>
 
----
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrekoyuncuu&show_icons=true&locale=en&layout=compact&theme=dark" alt="emrekoyuncuu" />
+</p>
 
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekoyuncuu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekoyuncuu&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=emrekoyuncuu&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=emrekoyuncuu&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrekoyuncuu&show_icons=true&locale=en&theme=dark" alt="emrekoyuncuu" />
+</p>
 
----
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrekoyuncuu&theme=dark" alt="emrekoyuncuu" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=emrekoyuncuu&theme=darkhub&column=8" alt="emrekoyuncuu" />
+  </a>
+</p>
 
 ## 📫 How to Reach Me
 
 For collaborations, contributions, or inquiries, feel free to connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrekoyuncuu/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrekoyuncujob@gmail.com)
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+<a align="center"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrekoyuncuu/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrekoyuncujob@gmail.com) </a>
